@@ -1,5 +1,4 @@
 # Wrangle and Analyze Data
-Project 2 for ALX - Udacity's Data Analyst Nano-Degree
 
 ## Gathering Data
 The data was gathered from three different sources and in three different formats as described below:
